@@ -45,3 +45,4 @@ All the recommended files and directories from the steps above should look like 
     └── layouts
         └── main.handlebars
 ```
+The app is deployed to Heroku
