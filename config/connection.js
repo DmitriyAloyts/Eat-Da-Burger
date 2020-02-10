@@ -14,7 +14,7 @@ if (process.env.JAWSDB_URL) {
   });
 };
 
-console.log("connection: " + JSON.stringify(connection));
+console.log("connection: ");
 connection.connect(function (err) {
   if (err) {
     console.error("error connecting: " + err.stack);
